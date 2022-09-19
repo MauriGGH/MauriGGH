@@ -193,3 +193,32 @@
 > |0               |3  |si   |6  |si     |si         |6   |2  |no    |      |
 > |1               |3  |si   |18 |si     |si         |24  |3  |no    |      |
 > |2               |3  |si   |5  |si     |no         |24  |4  |si    |24    |
+### Ejercicio 17.- Digite si un número es par o impar.
+####
+* *17.1 Análisis*
+> pedirle al usuario un número, si es cero imprimir un error, si n modulo 2 es cero imprimir que es par, si no, imprimir que es impar.
+
+  ![DFD17.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD17.png?raw=true)
+* *17.3 Prueba de escritorio*
+> |n  |n > 0|n % 2 = 0|Salida|
+> |:-:|:---:|:-------:|:----:|
+> |6  |Si   |si       |Es par|
+* *17.4 Prueba de escritorio*
+> |n  |n > 0|n % 2 = 0|Salida  |
+> |:-:|:---:|:-------:|:------:|
+> |5  |Si   |no       |Es impar|
+### Ejercicio 18.- Escriiba un dfd que indique si un número es mayor a 10.
+####
+* *18.1 Análisis*
+> pedirle al usuario un número, si es menor que 10 imprimir que es menor que 10, de lo contrario imprimir que es mayor que.
+
+  ![DFD18.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD18.png?raw=true)
+* *18.3 Prueba de escritorio*
+> |n  |n > 10|Salida             |
+> |:-:|:---:|:------------------:|
+> |6  |no   |6 es menor que 10   |
+* *18.4 Prueba de escritorio*
+> |n  |n > 10|Salida             |
+> |:-:|:---:|:------------------:|
+> |45 |si   |45 es mayor que 10   |
+  
