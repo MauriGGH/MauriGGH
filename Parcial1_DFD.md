@@ -103,4 +103,30 @@
 > |año_nac|año_act|Salida|
 > |:---:|:---:|:---:|
 > |2004 |2022 |18   |
+### Ejercicio 11.- Pregunte el año de nacimiento de una persona y el año actual. Calcule su edad. Incluya una restricción para que el año de nacimiento no sea mayor al año actual
+####
+* *11.1 Análisis*
+> Pedirle al usuario que ingrese su año de nacimiento y asignarlo a una variable, hacer lo mismo con el año actual. Antes de imprimir la edad
+  verificar que el año de nacimiento no sea mayor que el año actual
+
+  ![DFD11.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD11.png?raw=true)
+* *11.3 Prueba de escritorio*
+> |año_nac|año_act|año_ac > año_nac|Salida|
+> |:---:|:---:|:---:|:---:|
+> |2004 |2022 |si   |18   |
+### Ejercicio 12.- Pregunte el año de nacimiento de una persona y el año actual. Calcule su edad. Incluya una restricción para que el año de nacimiento no sea mayor al año actual y para que ninguno de ellos pueda ser cero o negativo.
+####
+* *12.1 Análisis*
+> Pedirle al usuario que ingrese su año de nacimiento y asignarlo a una variable, hacer lo mismo con el año actual. Antes de imprimir la edad
+  verificar que el año de nacimiento no sea mayor que el año actual y que ni el año de nacimiento ni el año actual sean menores o iguales que cero, en caso de: devolverlos a la opción correspondiente para que corrijan su error.
+
+  ![DFD12.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD12.png?raw=true)
+* *12.3 Prueba de escritorio*
+> |año_nac|a-nac > 0|año_act|año_ac > 0|año_ac > año_nac|Salida|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> |2004 |si |2022  |si  |si|18|
+* *12.4 Prueba de escritorio con caracteres inválidos*
+> |año_nac|a-nac > 0|año_act|año_ac > 0|Salida|2) año_act|año_ac > 0|año_ac > año_nac|Salida|
+> |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+> |2004 |si |-2022  |no  |No puede ser menor que cero|2022|si|si|18
   
