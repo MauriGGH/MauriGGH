@@ -164,3 +164,20 @@
 
 * *14.4 Salidas*
 > 55
+### Ejercicio 15.- Genere números pares del uno al 10.
+####
+* *15.1 Análisis*
+> hacer un contador y crear una condición para que mientras que el contador sea menor o igual que 10 imprima contador y que además vaya aumentando su valor en 2 por cada iteración. Como la salida va dentro de la condición es necesario que la condición indique <= 10 porque si no fuera así, no imprimiría el 10 al final.
+
+  ![DFD15.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD15.png?raw=true)
+* *15.3 Prueba de escritorio*
+> |no. de iteración|c  |c <= 10|Salida|c+1|
+> |:--------------:|:-:|:-----:|:----:|:-:|
+> |0               |2  |si     |2     |4  |
+> |1               |4  |si     |4     |6  |
+> |2               |6  |si     |6     |8  |
+> |8               |8  |si     |8     |10 |
+> |9               |10 |si     |10    |12 |
+> |10              |12 |no     |  FIN |   |
+* *15.4 Salidas*
+> 2,4,6,8,10
