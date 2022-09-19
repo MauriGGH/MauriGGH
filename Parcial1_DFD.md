@@ -221,4 +221,18 @@
 > |n  |n > 10|Salida             |
 > |:-:|:---:|:------------------:|
 > |45 |si   |45 es mayor que 10   |
+### Ejercicio 19.- Escriiba un dfd que indique cuánto me falta para que llegue a 10.
+####
+* *19.1 Análisis*
+> pedirle al usuario un número, restar ese número a 10 para saber cuánto falta para llegar y reste 10 al número para saber cuanto se pasó.
+
+  ![DFD19.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD19.png?raw=true)
+* *19.3 Prueba de escritorio*
+> |n  |n > 10|Salida             |
+> |:-:|:---:|:------------------:|
+> |6  |no   |faltan 4 para 10    |
+* *19.4 Prueba de escritorio*
+> |n  |n > 10|Salida             |
+> |:-:|:---:|:------------------:|
+> |45 |si   |te pasaste por 35   |
   
