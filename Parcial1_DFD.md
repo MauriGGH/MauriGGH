@@ -40,5 +40,35 @@
 * *4.3 Prueba de escritorio*
 > |Entrada|Salida|
 > |:---:|:----------------:|
->  |Mauricio|Buen día Mauricio|
+> |Mauricio|Buen día Mauricio|
+### Ejercicio 5.- Escriba un diagrama de flujo que calcule el cuadrado de 2
+####
+* *5.1 Análisis*
+> Imprimir la operación 2*2 con un símbolo de salida
 
+  ![DFD5.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD5.png?raw=true)
+* *5.3 Prueba de escritorio*
+> |Entrada|Salida|
+> |:---:|:---:|
+> ||4|
+### Ejercicio 6.- Escriba un diagrama de flujo que calcule el cuadrado de n para n = 5
+####
+* *6.1 Análisis*
+> Crear una asignación y crear la variable n y darle el valor de 5, después imprimir n*n
+
+  ![DFD6.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD6.png?raw=true)
+* *6.3 Prueba de escritorio*
+> |n|Salida|
+> |:---:|:---:|
+> |5|25|
+### Ejercicio 7.- Pregunte al usuario el valor de n y obtenga el cuadrado
+####
+* *7.1 Análisis*
+> Mediante un símbolo de salida indicarle al usuario que ingrese un número, después leer el número del usuario y asignarlo a la variable n 
+  e imprimir n*n
+
+  ![DFD7.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD7.png?raw=true)
+* *7.3 Prueba de escritorio*
+> |Entrada|Salida|
+> |:---:|:---:|
+> |4|16|
