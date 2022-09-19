@@ -235,4 +235,41 @@
 > |n  |n > 10|Salida             |
 > |:-:|:---:|:------------------:|
 > |45 |si   |te pasaste por 35   |
+### Ejercicio 20.- Capture n números, al final indique cuáles son negativos y cuáles son positivos. Escriba cero para terminar.
+####
+* *20.1 Análisis*
+> pedirle al usuario un número de veces que va a ingresar valores, por lo tanto también debemos crear un contador. Indicamos al usuario que digite l cantidad de números que indicó, al ingresar cada número verificar si este es cero, luego si es mayor que cero o menor para así poder imprimir si es positivo o negtivo. Repetir esto hasta que el contador sea mayor que el número total de vlores que indicó el usuario o cuando ingrese cero.
+
+  ![DFD20.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD20.png?raw=true)
+* *20.3 Prueba de escritorio*
+> |no. de iteración|n  |n > 0|ind > n |var|Var = 0|var > 0    |ind |Salida                     |
+> |:--------------:|:-:|:---:|:------:|:-:|:-----:|:---------:|:--:|:-------------------------:|
+> |0               |5  |si   |1 > 5 no|2  |no     |si         |2   |El número 2 es positivo    |
+> |1               |5  |si   |1 > 5 no|-3 |no     |no         |3   |El número 2 es negativo    |
+> |2               |5  |si   |1 > 5 no|0  |si     |           |    | Saliendo                  |
+### Ejercicio 21.- Capturar un número negativo o positivo; si es positivo, contar de cero a ese número, si es negativo, contar de cero a ese número. Cero para continuar.
+####
+* *21.1 Análisis*
+> Pedirle al usuario que ingrese un número, si es cero salimos del programa, si no, si no, si es positivo, vamos a comprobar mediante una condición pra saber si vamos a contar del cero hacia abajo o del cero hacia arriba.
+
+  ![DFD21.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD21.png?raw=true)
+* *21.3 Prueba de escritorio*
+> |no. de iteración|num |n = 0|num > 0 |cont > num|Salida|
+> |:--------------:|:--:|:---:|:------:|:--------:|:----:|
+> |0               |2   |no   |si      |1 > 2 no  | 1    |
+> |1               |2   |no   |si      |2 > 2 no  | 2    |
+> |2               |2   |no   |si      |3 > 2 no  |      |
+* *21.4 Salidas
+> Regresa al principio. Ingreso 0 para finalizar...
+> |no. de iteración|num |n = 0|num > 0 |cont > num|Salida|
+> |:--------------:|:--:|:---:|:------:|:--------:|:----:|
+> |0               |0   |si   |        |          |      |
+>
+# UNIVERSIDAD DE COLIMA
+## Facultad de Ingeniería Mecánica y Eléctrica
+### Nombre: Gómez Hernández Muricio Gerardo   Grupo: 1°B    Fecha: 18/09/22
+![Logo UdeC](https://github.com/MauriGGH/MauriGGH/blob/main/udec1.png?raw=true)
+
+  
+  
   
