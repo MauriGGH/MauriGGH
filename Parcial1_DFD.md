@@ -72,3 +72,14 @@
 > |Entrada|Salida|
 > |:---:|:---:|
 > |4|16|
+  ### Ejercicio 8.- Obtenga el cuadrado de la suma de 2 números enteros
+####
+* *8.1 Análisis*
+> Pedirle al usuario que ingrese 2 números, a continuación leer los 2 números y asignarlos a dos variables distintas ( a,b). Por último
+  imrimir la suma de las dos variables al cuadrado
+
+  ![DFD78.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD8.png?raw=true)
+* *8.3 Prueba de escritorio*
+> |a    |b    |Salida|
+> |:---:|:---:|:----:|
+> |2    |3    |25    |
