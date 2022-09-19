@@ -91,5 +91,16 @@
   ![DFD9.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD9.png?raw=true)
 * *9.3 Prueba de escritorio*
 > |año_nac|Salida|
-> |:---:|:---|
+> |:---:|:---:|
 > |2004 |18  |
+### Ejercicio 10.- Pregunte el año de nacimiento de una persona y el año actual. Calcule su edad.
+####
+* *10.1 Análisis*
+> Pedirle al usuario que ingrese su año de nacimiento y asignarlo a una variable, hacer lo mismo con el año actual. Por último calcular su edad.
+
+  ![DFD10.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD10.png?raw=true)
+* *10.3 Prueba de escritorio*
+> |año_nac|año_act|Salida|
+> |:---:|:---:|:---:|
+> |2004 |2022 |18   |
+  
