@@ -181,3 +181,15 @@
 > |10              |12 |no     |  FIN |   |
 * *15.4 Salidas*
 > 2,4,6,8,10
+### Ejercicio 16.- Capture n números e imprima solo la suma de los pares.
+####
+* *16.1 Análisis*
+> Preguntaremos al usuario cuántos números va a querer sumar y lo guardaremos en una variable, antes de continuar debemos comprobar que ese número no sea menor o igual que cero para evitar errores. Después pedir que vaya ingresando los dígitos a sumar, usar una condición para evitar que el número que ingrese sea negativo. A continuación comprobar si el valor es par o impar. Finalmente incrementar los contadores y una vez que n sea igual que el contador imprimir la suma en pantalla.
+
+  ![DFD16.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD16.png?raw=true)
+* *16.3 Prueba de escritorio*
+> |no. de iteración|n  |n > 0|Var|Var > 0|var % 2 = 0|sump|c  | c > n|Salida|
+> |:--------------:|:-:|:---:|:-:|:-----:|:---------:|:--:|:-:|:----:|:----:|
+> |0               |3  |si   |6  |si     |si         |6   |2  |no    |      |
+> |1               |3  |si   |18 |si     |si         |24  |3  |no    |      |
+> |2               |3  |si   |5  |si     |no         |24  |4  |si    |24    |
