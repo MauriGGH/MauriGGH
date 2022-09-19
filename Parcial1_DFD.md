@@ -129,4 +129,38 @@
 > |año_nac|a-nac > 0|año_act|año_ac > 0|Salida|2) año_act|año_ac > 0|año_ac > año_nac|Salida|
 > |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 > |2004 |si |-2022  |no  |No puede ser menor que cero|2022|si|si|18
-  
+### Ejercicio 13.- Escriba un DFD que cuente del 1 al 10 y lo escriba
+####
+* *13.1 Análisis*
+> hacer un contador y crear una condición para que mientras que el contador sea menor o igual que 10 imprima contador y que además vaya aumentando su valor en 1 por cada iteración. Como la salida va dentro de la condición es necesario que la condición indique <= 10 porque si no fuera así, no imprimiría el 10 al final.
+
+  ![DFD13.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD13.png?raw=true)
+* *13.3 Prueba de escritorio*
+> |no. de iteración|c  |c <= 10|Salida|c+1|
+> |:--------------:|:-:|:-----:|:----:|:-:|
+> |0               |1  |si     |1     |2  |
+> |1               |2  |si     |2     |3  |
+> |2               |3  |si     |3     |4  |
+> |8               |9  |si     |9     |10 |
+> |9               |10 |si     |10    |11 |
+> |10              |11 |no     |  FIN |   |
+* *13.4 Salidas*
+> 1,2,3,4,5,6,7,8,9,10
+### Ejercicio 14.- El resultado de la suma de los números naturales del 1 al 10.
+####
+* *14.1 Análisis*
+> crear un contador y un acumulador; hacer una condición que indique si contador <= 10 y además de aumentar en 1 contador sumar el acumulador sum + contador. Esto se repetirá cadaiteracón hasta que el contador sea igual a 11. Finalmente imprimir la suma.
+
+  ![DFD14.2](https://github.com/MauriGGH/MauriGGH/blob/main/DFD14.png?raw=true)
+* *14.3 Prueba de escritorio*
+> |no. de iteración|c  |suma   |c <= 10|suma + c|c+1|
+> |:--------------:|:-:|:-----:|:-----:|:------:|:-:|
+> |0               |1  |0      |si     |1       |2  |
+> |1               |2  |1      |si     |3       |3  |
+> |2               |3  |3      |si     |6       |4  |
+> |8               |9  |36     |si     |45      |10 |
+> |9               |10 |45     |si     |55      |11 |
+> |10              |11 |55     |no     |FIN     |   |
+
+* *14.4 Salidas*
+> 55
