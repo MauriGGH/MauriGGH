@@ -1,10 +1,12 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=¡Hola,%20soy%20Mauricio%Gómez!&fontSize=40)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&height=200&section=header&text=Mauricio%20Gómez&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Banner Mauricio" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Estudiante+de+Tecnología;Desarrollador+Backend+%2F+Web;Administrador+de+Servidores+Linux;Futuro+Investigador+en+IA+y+Computación+Cuántica" alt="Typing SVG" />
-  </a>
+  <h3 align="center">
+    Estudiante de Tecnología • Desarrollador Backend & Web
+  </h3>
+  <p align="center">
+    <i>Administrador de Servidores Linux | Futuro Investigador en IA y Computación Cuántica</i>
+  </p>
 
   <br />
 
@@ -17,7 +19,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy un estudiante apasionado por la tecnología, la infraestructura de sistemas y el desarrollo de software. Me considero un **aprendiz agnóstico al lenguaje**: disfruto el reto de dominar nuevas herramientas de forma autodidacta y resolver problemas complejos desde la raíz. 
+Soy un estudiante apasionado por la tecnología, la infraestructura de sistemas y el desarrollo de software. Me considero un **aprendiz agnóstico al lenguaje**: disfruto el resto de dominar nuevas herramientas de forma autodidacta y resolver problemas complejos desde la raíz. 
 
 Mi meta a largo plazo es especializarme mediante un posgrado en **Inteligencia Artificial (Machine Learning), Automatización y Computación Cuántica**.
 
@@ -67,7 +69,6 @@ Mi meta a largo plazo es especializarme mediante un posgrado en **Inteligencia A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MauriGGH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="Estadísticas de MauriGGH" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauriGGH&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes de MauriGGH" />
 </p>
 
