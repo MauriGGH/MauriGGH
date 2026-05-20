@@ -5,7 +5,7 @@
     🧩 Desarrollo backend • Automatizo procesos • Cuido la infraestructura
   </h3>
   <p align="center">
-    <i>Estudiante de Tecnología • Resuelvo problemas con código y workflows</i>
+    <i> • Wake Up • </i>
   </p>
 
   <br />
@@ -22,13 +22,11 @@
 
 ### 👨‍💻 ¿Quién soy?
 
-Soy **Mauricio Gómez**, estudiante de tecnología con enfoque práctico: desarrollo backend, automatizo tareas repetitivas y mantengo servidores funcionando sin dramas. No me caso con ninguna tecnología, pero sí con los resultados.
+Soy **Mauricio Gómez**, ingeniero en Sistemas Computacionales en formación.
 
 - 🔭 **Ahora mismo:** Terminando proyectos web con Node.js y React, mientras refuerzo lógica y bases de datos.
 - 📚 **Próximamente:** .NET, cloud (AWS/Azure) y más automatización con n8n.
-- ⚙️ **Lo que más disfruto:** Crear workflows que ahorren tiempo, desplegar apps y arreglar lo que nadie más quiere arreglar.
 - 🎯 **Mi norte:** Investigar en IA y computación cuántica, pero sin perder el piso: primero que el sistema sea estable.
-- 💬 **Frase de cabecera:** *"Automatiza lo aburrido, optimiza lo crítico."*
 
 ---
 
