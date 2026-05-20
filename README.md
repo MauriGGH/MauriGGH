@@ -19,6 +19,8 @@
 ---
 ### ◆ About
 
+Portfolio Personal: http:localhost:8000/index.html
+
 ![Building](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=4000&color=3FB950&width=580&height=22&lines=→+Building+with+Node.js+%26+React)
 
 ![Next](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=4000&color=3FB950&width=580&height=22&lines=→+Next%3A+.NET+%7C+AWS+%7C+Azure+%7C+n8n)
